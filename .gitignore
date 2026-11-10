@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.cxx/
+
+# Signing
+*.jks
+*.keystore
+*.p12
+
+# Secrets
+.env
+.env.*
+gradle.properties
+
+# Build outputs
+*.apk
+*.aab
+
+# Logs
+*.log
